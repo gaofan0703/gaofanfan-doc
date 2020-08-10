@@ -86,7 +86,7 @@ public enum SingletonEnum {
 
 
 
-![test for markdown](https://gaofan0703.github.io/gaofanfan-doc/image/1.png)
+![2.png](https://gitee.com/fandog/picgo/raw/master/image/2.png)
 
 
 
