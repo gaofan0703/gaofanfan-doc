@@ -84,3 +84,9 @@ public enum SingletonEnum {
 | 静态内部类 |     是     |     否     |
 |    枚举    |     否     |     是     |
 
+
+
+![test for markdown](https://gaofan0703.github.io/gaofanfan-doc/image/1.png)
+
+
+
